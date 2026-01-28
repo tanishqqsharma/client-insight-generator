@@ -56,7 +56,7 @@ This project reflects a consulting-style, business-first approach to data analys
 
 1. Clone or download the repository  
 2. Open `index.html` in any modern browser  
-3. Upload the provided `client_data.csv` file  
+3. Upload the provided `clients.csv` file  
 4. Click **Generate Insights** to view results  
 
 ---
