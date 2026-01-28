@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Client Insight Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Client Insight Generator</h1>
+  <p>Upload client data to generate business insights</p>
+
+  <input type="file" id="csvFile" accept=".csv" />
+  <button onclick="processData()">Generate Insights</button>
+
+  <table id="resultTable">
+    <thead>
+      <tr>
+        <th>Client</th>
+        <th>Value</th>
+        <th>Risk</th>
+        <th>Recommendation</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
