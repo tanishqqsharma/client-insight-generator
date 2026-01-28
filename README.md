@@ -69,7 +69,7 @@ This project simulates a real-world analyst scenario where client data is transl
 
 ## 📎 Sample Data
 
-A sample CSV file ![](clients.csv) is included to demonstrate functionality.
+A sample CSV file (`clients.csv`) is included to demonstrate functionality.
 
 ---
 
